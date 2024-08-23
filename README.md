@@ -30,6 +30,7 @@ By completing this reflection, you will gain a clearer understanding of your car
      I am a quick learner and I found to be pretty good at thinking out of the box. I have good interpersonal and intrapersonal skills. My expertise range from html to css and look at the finer details in the code.
 
     - Identify skills you need to develop or improve.
+      
     I need to develop my code more in the sense that i should be learning other cool tricks that can elebvate my code even more. I do also need to improve my time management.
 
 2. **Interests and Values**:
